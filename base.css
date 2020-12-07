@@ -37,10 +37,10 @@
 }
 
 .theme-dark {
-  --background-light: #22262e;
-  --background: #171a1f;
-  --background-alt: #1b1f25;
-  --background-dark: #131519;
+  --background-light: #3B4252;
+  --background: #2E3440;
+  --background-alt: #2E3440;
+  --background-dark: #2E3440;
   --text-normal: #d1d1d2;
   --text-muted: #686a6d;
   --text-focus: #fff;
@@ -898,3 +898,6 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount #user-settings .notches-1sAcEM {
   background: none;
 }
+
+
+
