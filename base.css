@@ -18,9 +18,9 @@
 }
 .theme-light {
   --background-light: #fff;
-  --background: #edf2f7;
-  --background-alt: #f7fafc;
-  --background-dark: #e2e8f0;
+  --background: #3B4252;
+  --background-alt: #434C5E;
+  --background-dark: #2E3440;
   --text-normal: #2d3748;
   --text-muted: #718096;
   --text-focus: #1a202c;
