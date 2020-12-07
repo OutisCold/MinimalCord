@@ -16,7 +16,6 @@
   --channels-default: var(--text-normal);
   --version: "2.0.4";
 }
-
 .theme-light {
   --background-light: #fff;
   --background: #edf2f7;
@@ -39,7 +38,7 @@
 .theme-dark {
   --background-light: #434C5E;
   --background: #2E3440;
-  --background-alt: #2E3440;
+  --background-alt: #4C566A;
   --background-dark: #2E3440;
   --text-normal: #d1d1d2;
   --text-muted: #686a6d;
